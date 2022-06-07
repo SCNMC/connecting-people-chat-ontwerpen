@@ -4,7 +4,10 @@
 
 ## Ontwerp tien verschillende digitale versies van een chatroom voor jouw opdrachtgever
 
-## Papieren schetsen
+## Papieren schetsen!
+
+<img width="358" alt="Schermafbeelding 2022-06-07 om 12 16 03" src="https://user-images.githubusercontent.com/90189750/172356200-7f87c253-5cfa-4e8b-bcc1-30784858cf8a.png">
+
 
 ## Schetsen, Figma/XD of CSS?
 
